@@ -1,0 +1,70 @@
+# 👨‍💼 Employee Salary Manager
+
+> A simple and interactive Python-based Employee Management System for managing employee records, salaries, and basic CRUD operations.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+
+---
+
+## 📌 Project Overview
+
+**Employee Salary Manager** is a menu-driven Python application designed to manage employee information efficiently.
+
+The application allows users to add employees, view employee details, update salaries, delete employees, and display all employees with their salaries.
+
+This project was built to practice and demonstrate core Python programming concepts such as:
+
+- Lists
+- Dictionaries
+- Loops
+- Conditional Statements
+- Functions
+- Exception Handling
+- CRUD Operations
+- User Input Validation
+
+---
+
+## ✨ Features
+
+### 👤 Employee Management
+
+- ➕ Add a new employee
+- 🔍 Search and view an employee
+- ✏️ Update employee salary
+- 🗑️ Delete an employee
+- 👥 View all employees
+
+### 💰 Salary Management
+
+- Store employee salary
+- Update salary information
+- Display employee salary
+- Display all employee salaries
+
+### 🛡️ Input Handling
+
+- Handles invalid menu inputs
+- Validates salary input
+- Handles employee-not-found cases
+- Prevents errors when no employees exist
+
+---
+
+## 🖥️ Application Menu
+
+```text
+================================
+    EMPLOYEE SALARY MANAGER
+================================
+
+1. Add Employee
+2. View Employee
+3. Update Employee Salary
+4. Delete Employee
+5. Exit
+6. View All Employees & Salary
+
+================================
